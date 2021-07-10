@@ -1,3 +1,0 @@
-|Kolumna|Kolumna|
-|:---:  |:---   |
-|
