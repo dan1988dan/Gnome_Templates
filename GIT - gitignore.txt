@@ -1,0 +1,12 @@
+# ------------------.gitignore by dan1988dan---------------------
+#
+# _______________________________________________________________
+#   * is used as a wildcard match:  *.txt (Ignore all text files)
+#   / is used to ignore pathnames relative to the .gitignore file
+#   # is used to add comments to a .gitignore file
+#   rename this file to .gitignore
+# ---------------------------------------------------------------
+
+
+
+README.md.backup

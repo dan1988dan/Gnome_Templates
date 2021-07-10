@@ -1,3 +1,6 @@
 ._sync_578e1c77d883.db
 ._sync_578e1c77d883.db-shm
 ._sync_578e1c77d883.db-wal
+*.db
+*.db-shm
+*db-wal
