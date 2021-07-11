@@ -1,0 +1,26 @@
+############# .gitignore by dan1988dan
+######## https://github.com/dan1988dan
+
+
+# Some text editors make .backup file
+README.md.backup
+
+# VisualStudioCode
+.vscode/
+.vscode/*
+
+
+
+
+
+
+
+##   * is used as a wildcard match:  *.txt (Ignore all text files)
+##   / is used to ignore pathnames relative to the .gitignore file
+##   # is used to add comments to a .gitignore file
+
+
+### Important:
+# 
+#
+### Change filename to .gitignore

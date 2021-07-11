@@ -1,0 +1,24 @@
+/* style.css template by dan1988dan */
+/*    https://github.com/dan1988dan */
+
+
+
+
+.main-container { 				/* This sets the content to be centered  */
+    width:60%;
+    margin-left:auto;
+    margin-right: auto;
+}
+
+
+
+
+
+
+
+/* Important:
+** 
+**
+** Rename this file to style.css, 
+** if you use my html template the path for the css file is set there (./style/style.css)   */
+

@@ -1,3 +1,6 @@
+############# .htaccess by dan1988dan
+####### https://github.com/dan1988dan
+
 ### PROTECT FILES ###
 <FilesMatch "\.(htaccess|htpasswd|ini|fla|psd|log|sh)$">
 Order Allow,Deny

@@ -1,0 +1,57 @@
+/* style.css template by dan1988dan */
+/*    https://github.com/dan1988dan */
+
+
+body {
+/*  font-family:"Open Sans", sans-serif;
+    font-size:1rem;
+    line-height: 1.6;
+    letter-spacing: 0.2px;	*/
+}
+
+.main-container { 				/* This sets the content to be centered  */
+    width:60%;
+    margin-left:auto;
+    margin-right: auto;
+    white-space:pre-wrap;
+}
+hr {
+    color:white;
+    border-bottom: 1px solid white;
+}
+h1, h2, h3, h4, h5, h6, hr {
+    line-height: 1.2;
+    margin-top:0;
+    margin-bottom: 0;
+}
+h1 {
+    color:red;
+    font-size: 2.5rem;
+    border-bottom: 3px solid rgb(189, 189, 189);
+}
+h2 {
+    font-size: 1.75rem;
+    border-bottom: 2px solid rgb(189, 189, 189);
+}
+h3 {
+    font-size: 1.5rem;
+}
+h4 {
+    font-size: 1.25rem;
+}
+h5 {
+    font-size: 1rem;
+}
+h6 {
+    font-size:1rem;
+    color:#777;
+}
+
+
+
+/* Important:
+** 
+**
+** Rename this file to style.css, 
+** if you use my html template the path for the css file is set there (./style/style.css)   */
+
