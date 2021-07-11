@@ -1,0 +1,27 @@
+# _redirects
+
+# Redirect with a 301
+/home             /              301
+
+# Redirect with a 302
+/my-redirect      /              302
+
+# Show a custom 404 for this path
+/ecommerce        /store-closed  404
+
+# Rewrite a path
+/pass-through     /index.html    200
+
+
+# 301 (default): Permanent redirect. Tells the client that the address for this resource has permanently changed, and any indexes using the old address should start using the new one. The URL in the browser address bar will display the new address.
+
+# 302: Temporary redirect; use this status code instead of 307, which is currently unsupported. Tells the client that the current address change is temporary. The URL in the browser address bar will display the new address.
+
+# 404: Not found. You can use this status code to present custom 404 pages when visitors access paths on your site that don’t exist. With this status code, the page content will change, but the URL in the browser address bar will not.
+
+# 200: OK. Redirects with this status code will change the server response without changing the URL in the browser address bar. This is used for rewrites and proxying.
+
+
+# Important: 
+# 
+# Change filename to _redirects 

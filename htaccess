@@ -5,8 +5,17 @@ Deny from all
 </FilesMatch>
 
 RewriteEngine on
-RewriteRule zatrudnij-programiste-webowego index.html
-RewriteRule kim-jestem kimjestem.html
-RewriteRule oferta-tworzenie-stron-www oferta.html
-RewriteRule technologie-jakich-uzywam-w-it technologie.html
-RewriteRule kontakt-programista-php kontakt.html
+RewriteRule nowa-nazwa-strony index.html
+RewriteRule nowa-nazwa-strony staranazwa.html
+
+
+
+
+# this is a comment
+## this is a comment
+### this is a comment
+
+### Important:
+# 
+#
+### Change filename to .htaccess
